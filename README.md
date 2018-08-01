@@ -11,5 +11,5 @@
 
 
 
-"homepage": "http://aten.xyz/FE/react_todo"
+"homepage": "http://aten.xyz/fe/react_todo"
 npm run build
